@@ -4,7 +4,6 @@ package arraydemos23tuepm;
 
 public class Student {
     // added first comment 
-    // added comment for revert
     private String studentId;
     private String studentName;
 
